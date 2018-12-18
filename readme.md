@@ -4,7 +4,7 @@ When you're learning to visualize data it can be a struggle to find clean data s
 
 Each set lives in it's own directory with at least a [YAML](https://en.wikipedia.org/wiki/YAML) file and a .csv or .tsv file.
 
-The focus is on collecting simple tabualar data sets for use with [D3](https://d3js.org/)
+The focus is on collecting simple tabular data sets for use with [D3](https://d3js.org/)
 
 ## YAML conventions
 
