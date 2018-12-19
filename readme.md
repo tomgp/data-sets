@@ -1,10 +1,20 @@
 # Data Sets
 
-When you're learning to visualize data it can be a struggle to find clean data sets. So I've started a small collection here to help get started.
+When you're learning to visualize data it can be a struggle to find clean data sets.This small collection is to help get started.
 
 Each set lives in it's own directory with at least a [YAML](https://en.wikipedia.org/wiki/YAML) file and a .csv or .tsv file.
 
-The focus is on collecting simple tabular data sets for use with [D3](https://d3js.org/)
+The focus is on collecting simple tabular data sets for use with [D3](https://d3js.org/).
+
+## Loading CSV data in D3 (v5)
+
+```
+d3.csv('my-data-file.csv')
+  .then((data)=>{
+    console.log('your data is now available as an array of objects, one for each row of the CSV...');
+    console.log(data);
+  })
+```
 
 ## YAML conventions
 
