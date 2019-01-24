@@ -1,0 +1,7 @@
+title: London House Price Index 1995 - 2018
+source: ONS
+sourceURL: https://www.gov.uk/government/statistical-data-sets/uk-house-price-index-data-downloads-september-2018
+dateRetrieved: 2019-01-24
+datePublished:
+dateCollected:
+methodology: Downloaded the data, removed all rows not pertaining to a London borough.
