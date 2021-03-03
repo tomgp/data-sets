@@ -1,5 +1,5 @@
 title: Countries of the world
-description: GeoJSON shapes for contries of the world at a reasonable detail level with names and ISO codes
+description: GeoJSON shapes for countries of the world at a reasonable detail level with names and ISO codes. Also some groups, e.g. British Isles.json
 source: Natural Earth
 dateRetrieved: 2021-03-03
 datePublished:
