@@ -2,9 +2,9 @@
 
 When you're learning to visualize data it can be a struggle to find clean data sets.This small collection is to help get started.
 
-Each set lives in it's own directory with at least a [YAML](https://en.wikipedia.org/wiki/YAML) file and a .csv or .tsv file.
+Each set lives in it's own directory with at least a [YAML](https://en.wikipedia.org/wiki/YAML) file and a .csv or .tsv file or sometimes a .json file.
 
-The focus is on collecting simple tabular data sets for use with [D3](https://d3js.org/).
+The focus is on collecting simple tabular data sets for use with [D3](https://d3js.org/), also some geographic shapes.
 
 ## Loading CSV data in D3 (v5)
 
