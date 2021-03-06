@@ -1,0 +1,7 @@
+title: Cycle routes in London 
+source: TFL
+sourceURL: https://tfl.gov.uk/maps/cycle
+dateRetrieved: 2021-03-06
+datePublished:
+dateCollected:
+methodology: Looked at network requests and figured out which was for the route data then downloaded it
