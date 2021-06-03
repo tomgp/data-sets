@@ -1,6 +1,6 @@
 rank	word	count
-1 you(see also ya)	1222421
-2	I 1052546
+1	you(see also ya)	1222421
+2	I	1052546
 3	to	823661
 4	the	770161
 5	a or A.	563578
@@ -36,7 +36,7 @@ rank	word	count
 35	well	155201
 36	are	152650
 37	he	150009
-38	oh	148780 (see also o)
+38	oh  (see also o)	148780
 39	about	142750
 40	right	137218
 41	you're	135738
@@ -45,7 +45,7 @@ rank	word	count
 44	out	121867
 45	going	121435
 46	like	121194
-47	yeah	121148 (see also ya)
+47	yeah (see also ya)	121148
 48	if	120553
 49	her	116265
 50	she	110122
@@ -479,8 +479,8 @@ rank	word	count
 478	comes	6256
 479	hit	6248
 480	story	6231
-481	ya	6212 (see also you, yeah)
-482	mm	6192 (see also mmm)
+481	ya (see also you, yeah)	6212
+482	mm (see also mmm)	6192
 483	waiting	6132
 484	dinner	6099
 485	against	6064
@@ -642,7 +642,7 @@ rank	word	count
 641	girls	4048
 642	send	4045
 643	needed	4043
-644	O. or o	4030 (see also oh)
+644	O. or o  (see also oh)	4030
 645	taken	3997
 646	died	3996
 647	scared	3991
@@ -947,7 +947,7 @@ rank	word	count
 946	finished	2423
 947	fell	2419
 948	neither	2417
-949	mmm	2414 (see also mm)
+949	mmm (see also mm)	2414
 950	fix	2414
 951	Victor or victor	2412
 952	respect	2410
