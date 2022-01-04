@@ -1,0 +1,9 @@
+{
+  "title": "Healthy streets scorecard",
+  "description": "a set of spreadsheets normalising the data from the London Healthy Streets Scorecard index",
+  "source": "Healthy Streets coalition",
+  "sourceURL": "https://www.healthystreetsscorecard.london/results/",
+  "dateRetrieved": "2021-12-22",
+  "datePublished": "2021-10-21",
+  "methodology": "hand squeezed from the spreadsheet download on https://www.healthystreetsscorecard.london/results/"
+}
