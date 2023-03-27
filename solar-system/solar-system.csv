@@ -1,0 +1,14 @@
+body,type,gravity (m/s^2)
+Sun,Star,274
+Mercury,Planet,3.7
+Venus,Planet,8.9
+Earth,Planet,9.8
+Moon,moon,1.6
+Mars,Planet,3.7
+Ceres,dwarf planet,0.3
+Jupiter,Planet,24.8
+Saturn,Planet,10.4
+Uranus,Planet,8.9
+Neptune,Planet,11.2
+Pluto,Planet,0.6
+,,
